@@ -59,8 +59,8 @@ The project includes a CommandLineRunner that loads sample student data during a
 Make sure to configure your database settings in the `application.properties` file. The default configuration assumes a PostgreSQL database with the following properties:
 
 - URL: `jdbc:postgresql://localhost:5434/student`
-- Username: `postgres`
-- Password: `761121`
+- Username: 
+- Password: 
 
 ## Known Issues
 
